@@ -8,6 +8,7 @@
 		"LatvianModder"
 	],
 	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric",
 		"sources": "https://github.com/FTBTeam/FTB-Quests",
 		"issues": "https://github.com/FTBTeam/FTB-Quests/issues"
 	},
